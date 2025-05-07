@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Mostafa</h1>
-<h3 align="center">A freelancer Flutter developer with a knack for building complex and feature-rich mobile applications. I have developed numerous sophisticated apps that prioritize user experience and robust performance.</h3>
+<h3 align="center">Flutter developer with 2 years of experience building robust mobile applications. Proficient in Flutter and Dart, with a
+ passion for software architecture and applying clean, scalable design principles. Collaborative team player with a track
+ record of delivering high-quality solutions. Enthusiastic about staying updated with the latest Flutter technologies and
+ driving business success through innovative approaches.</h3>
 
-- 🔭 I’m currently working on **as freelancer flutter developer**
+- 🔭 I’m currently working on **as flutter developer**
 
 - 🌱 I’m currently learning **UI/UX**
 
